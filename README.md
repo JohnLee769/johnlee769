@@ -30,7 +30,7 @@
 ## 📊 GitHub 统计（可选，想放再放）
 
 <!-- 这是第三方免费服务 github-readme-stats。
-⚠️ 前提：你的 github.com 主页仓库（johnlee769-design/johnlee769-design）是公开的。
+⚠️ 前提：你的 github.com 主页仓库（johnlee769/johnlee769）是公开的。
 确认后，把下面两行取消注释即可生效（用户名已帮你填好）： -->
 
 <!-- ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnlee769-design&show_icons=true&theme=default) -->
@@ -41,7 +41,7 @@
 ## 📫 联系我 / Contact
 
 - 📧 邮箱：johnlee769@gmail.com
-- 🔗 GitHub：[johnlee769-design](https://github.com/johnlee769-design)
+- 🔗 GitHub：[johnlee769](https://github.com/johnlee769)
 - 🌐 个人网站：还没有哦😯
 
 ---
